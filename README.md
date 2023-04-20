@@ -18,6 +18,8 @@ And also Architect and Interior Designer
   
 - ❣️ I love design, art, games, planning, organizing and time management subjects
 
+    * Fun fact: you may find me streaming or playing Pokémon Unite online with my friends on a friday night! 
+
   
 ## My stack:
   
