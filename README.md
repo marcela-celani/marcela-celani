@@ -1,22 +1,22 @@
 # Hi there 👋 I'm Marcela!
-<h3>FullStack Web Developer from Brazil!</h4>
+🧑🏻‍💻 <h3>FullStack Web Developer from Brazil!</h4>
 And also Architect and Interior Designer
   
 ## More about me:
 
 <div display="block">
   
-- Graduating in Analysis and Systems Development at [Unp](https://www.unp.br/)
+- 🌐 Graduating in Analysis and Systems Development at [Unp](https://www.unp.br/)
 
-- Web Full Stack Development Student at [Labenu](https://www.labenu.com.br/)
+- 💻 Web Full Stack Development Student at [Labenu](https://www.labenu.com.br/)
 
-- Master's degree in Architecture and Environmental Design at [UFRN](https://www.ufrn.br/)
+- 📐 Master's degree in Architecture and Environmental Design at [UFRN](https://www.ufrn.br/)
   
 - 🔭 I’m currently working on responsive websites projects, UI and software modeling
  
 - 🌱 I’m currently learning React and FrontEnd stacks
   
-- 😄 I love design, art, games, planning, organizing and time management subjects
+- ❣️ I love design, art, games, planning, organizing and time management subjects
 
   
 ## My stack:
@@ -31,11 +31,11 @@ And also Architect and Interior Designer
 
 💻 Git, Visual Studio Code, Office
 
-🙊 Trello, Notion, Discord
+📝 Trello, Notion, Discord
 
 🎨 Figma, Adobe Photoshop/InDesign/Illustator, 3D modeling, Architectural modeling
 
-## How to find me:
+## Social Media:
 
 <a href="https://www.linkedin.com/in/marcelacelani/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   
