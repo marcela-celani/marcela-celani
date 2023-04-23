@@ -1,6 +1,5 @@
 # Hi there 👋 I'm Marcela!
-<h3>🧑🏻‍💻 FullStack Web Developer from Brazil!</h4>
-And also Architect and Interior Designer
+<h3>🧑🏻‍💻 A FullStack Web Developer from Brazil!</h4> *And also Architect and Interior Designer
 📫 Say hello to my email: marcelacelani.ti@gmail.com
   
 ## More about me:
