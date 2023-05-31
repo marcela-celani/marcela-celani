@@ -21,7 +21,7 @@
   
 - ❣️ I love design, art, games, planning, organizing and time management subjects
 
-    * Fun fact: you may find me playing Pokémon Unite live on stream with my friends on a friday night! 
+    * Fun fact: you may find me playing Pokémon Unite with my friends on a friday night! 
 
   
 ## My stack:
