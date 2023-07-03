@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Marcela!
-<h3>🧑🏻‍💻 A FullStack Web Developer from Brazil!</h4> 
+<h3>🧑🏻‍💻 A FrontEnd Web Developer from Brazil!</h4> 
 
-*And also Architect and Interior Designer*
+*Also Architect and Interior Designer*
 
 📫 Send hello to my email: marcelacelani.ti@gmail.com
   
@@ -15,13 +15,11 @@
 
 - 📐 Master's degree in Architecture and Environmental Design at [UFRN](https://www.ufrn.br/)
   
-- 🔭 I’m currently working on responsive websites projects, UI and software modeling
+- 🔭 I’m currently working on responsive websites projects, UI and systems
  
 - 🌱 I’m currently learning React and FrontEnd stacks
   
-- ❣️ I love design, art, games, planning, organizing and time management subjects
-
-    * Fun fact: you may find me playing Pokémon Unite with my friends on a friday night! 
+- ❣️ I love design, art, games, planning, organizing, spirituality and time management subjects
 
   
 ## My stack:
