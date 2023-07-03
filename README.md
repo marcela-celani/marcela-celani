@@ -34,7 +34,7 @@
           
 ### Tools and utilities:
 
-💻 Git, Visual Studio Code, Office
+💻 Git, Visual Studio Code, Office, NetBeans, MySQL Workbench
 
 📝 Trello, Notion, Discord
 
