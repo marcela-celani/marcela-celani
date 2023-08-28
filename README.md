@@ -15,9 +15,9 @@
 
 - 📐 Master's degree in Architecture and Environmental Design at [UFRN](https://www.ufrn.br/)
   
-- 🔭 I’m currently working on responsive websites projects, UI and systems
+- 🔭 I’m currently working on responsive Web projects
  
-- 🌱 I’m currently learning React and FrontEnd stacks
+- 🌱 I’m currently learning React and TypeScript
   
 - ❣️ I love design, art, games, planning, organizing, spirituality and time management subjects
 
