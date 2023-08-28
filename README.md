@@ -17,7 +17,7 @@
   
 - 🔭 I’m currently working on responsive Web projects
  
-- 🌱 I’m currently learning React and TypeScript
+- 🌱 I’m currently learning React, Firebase and TypeScript
   
 - ❣️ I love design, art, games, planning, organizing, spirituality and time management subjects
 
