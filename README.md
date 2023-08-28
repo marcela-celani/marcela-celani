@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Marcela!
-<h3>🧑🏻‍💻 A FrontEnd Web Developer from Brazil!</h4> 
+<h3>🧑🏻‍💻 A Full-Stack Web Developer from Brazil!</h4> 
 
 *Also Architect and Interior Designer*
 
