@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Marcela!
-<h3>🧑🏻‍💻 Full-Stack Web Developer from Brazil</h4> 
+<h3>🧑🏻‍💻 Web Developer from Brazil</h4> 
 
 📫 Send hello to my email: marcelacelani.ti@gmail.com
   
@@ -9,15 +9,15 @@
   
 - 🌐 Graduating in Analysis and Systems Development at [Unp](https://www.unp.br/)
 
-- 💻 Studied Web Full Stack Development at Bootcamp [Labenu](https://www.labenu.com.br/)
+- 💻 Studied Web Development at Bootcamp [Labenu](https://www.labenu.com.br/)
 
 - 📐 Studied Architecture and Environmental Design at [UFRN](https://www.ufrn.br/)
   
-- 🔭 I’m currently working on responsive websites using React, Javascript and Typescript
+- 🔭 My goal is to build interactive 3D websites using my 3D modelling, UI and Front End stacks
  
-- 🌱 I’m currently learning React, Firebase and TypeScript
+- 🌱 Currently working on responsive websites using React, Javascript and Typescript
   
-- ❣️ I love design, illustrating, gamming and self improvement subjects
+- ❣️ I love design, illustrations / drawings, online games and boardgames
 
   
 ## My stack:
@@ -32,11 +32,11 @@
           
 ### Tools and utilities:
 
-💻 Git, Visual Studio Code, Office, MySQL
+💻 Git, Visual Studio Code, Office, MySQL, Postman
 
-📝 Trello, Notion, Discord
+📝 Trello, Notion, Discord (task management is important!) 
 
-🎨 Figma, Adobe Photoshop/InDesign/Illustator, Procreate, 3D modeling, Architectural modeling
+🎨 Figma, Adobe Photoshop/InDesign/Illustator, Procreate, Blender, Architectural modeling
 
 ## Social Media:
 
