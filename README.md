@@ -32,7 +32,7 @@
           
 ### Tools and utilities:
 
-💻 Git, Visual Studio Code, Office, MySQL, Postman
+💻 Git, Visual Studio, Visual Studio Code, Office, MySQL, Postman
 
 📝 Trello, Notion, Discord (task management is important!) 
 
