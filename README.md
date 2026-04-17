@@ -1,44 +1,53 @@
 # Hi there 👋 I'm Marcela!
-<h3>🧑🏻‍💻 Web Developer from Brazil</h4> 
 
-📫 Send hello to my email: marcelacelani.ti@gmail.com
-  
+---
+
+🤖 **Growth GTM Engineer & Automation Specialist from Brazil**
+
+📩 Send hello to my email: marcelacelani.ti@gmail.com
+
+---
+
 ## More about me:
 
-<div display="block">
-  
-- 🌐 Graduating in Analysis and Systems Development at [Unp](https://www.unp.br/)
+- 🎓 Graduated in Analysis and Systems Development at [UNP](https://www.unp.br)
+- 💻 Studied Web Development at Bootcamp [Labenu](https://www.labenu.com.br)
+- 🤖 Currently building AI agents, automation pipelines and GTM systems with n8n, Make and LLMs
+- 📊 Working across the full GTM stack — CRM ops, lead routing, RevOps tooling and marketing automation
+- 🧠 Interested in time management, self-management, agile methodologies and AI as a copilot for everyday work
 
-- 💻 Studied Web Development at Bootcamp [Labenu](https://www.labenu.com.br/)
+---
 
-- 📐 Studied Architecture and Environmental Design at [UFRN](https://www.ufrn.br/)
-  
-- 🔭 My goal is to build interactive 3D websites using my 3D modelling, UI and Front End stacks
- 
-- 🌱 Currently working on responsive websites using React, Javascript and Typescript
-  
-- ❣️ I love design, illustrations / drawings, online games and boardgames
-
-  
 ## My stack:
-  
-<div display="inline">  
-<img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />          
-<img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-<img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />          
-                    
-          
-### Tools and utilities:
 
-💻 Git, Visual Studio, Visual Studio Code, Office, MySQL, Postman
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-📝 Trello, Notion, Discord (task management is important!) 
+---
 
-🎨 Figma, Adobe Photoshop/InDesign/Illustator, Procreate, Blender, Architectural modeling
+## Automation & GTM tools:
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
+
+---
+
+## Tools and utilities:
+
+🖥️ Git, VS Code, MySQL, Postman, MongoDB
+
+📋 ClickUp, Notion, Monday, Slack (task management is important!)
+
+---
 
 ## Social Media:
 
-<div display="inline">
-<a href="https://www.linkedin.com/in/marcelacelani/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>     <a href="https://www.instagram.com/marcela.celani/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcela-celani)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/marcelacelani)
