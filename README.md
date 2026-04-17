@@ -12,7 +12,7 @@
 
 - 🎓 Graduated in Analysis and Systems Development at [UNP](https://www.unp.br)
 - 💻 Studied Web Development at Bootcamp [Labenu](https://www.labenu.com.br)
-- 🤖 Currently building AI agents, automation pipelines and GTM systems with n8n, Make and LLMs
+- 🤖 Currently building AI projects, automation pipelines and GTM systems with n8n, Make and CRMs
 - 📊 Working across the full GTM stack — CRM ops, lead routing, RevOps tooling and marketing automation
 - 🧠 Interested in time management, self-management, agile methodologies and AI as a copilot for everyday work
 
